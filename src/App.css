@@ -17,6 +17,10 @@
   border-bottom: 1px solid #aaa;
   padding: 10px 20px;
 }
+.navbar-mobile {
+  display: none;
+}
+
 .navbar-item:hover {
   color: white;
   background-color: #5c5c5c;

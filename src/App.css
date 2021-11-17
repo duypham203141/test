@@ -136,6 +136,7 @@
     background-color: white;
   }
   .navbar-mobile {
+    display: block;
     background-color: #191718;
     height: 100vh;
     width: 100vw;
